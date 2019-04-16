@@ -1,0 +1,13 @@
+body {
+	margin: 0;
+	padding: 0;
+	max-width: 1350px;
+}
+
+.divs {
+	width: 16px;
+	height: 16px;
+	border: 1px solid black;
+	display: inline-block;
+	margin-bottom: -4px;
+}
